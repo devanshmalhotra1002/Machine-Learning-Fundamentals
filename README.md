@@ -6,7 +6,7 @@ This document outlines the core concepts used in machine learning, along with pr
 1. **Basic Statistics** - Includes essential statistical concepts to understand machine learning algorithms.
 2. **Machine Learning Basics** - Includes essential machine learning terminology.
 3. **Data Preparation** - Includes essential steps needed for data preparation.
-4. **Supervised Machine Learning** - Explore various supervised machine learning models with their working, advantages, disadvantages and application. Also explore various evaluation metrics for classification and regression problems.
+4. **Supervised Machine Learning** - Explores various supervised machine learning models and various evaluation metrics for classification and regression problems.
     * Linear Regression [Simple and Multiple]
     * Regularisation [Ridge and Lasso]
     * Logistic Regression
@@ -17,11 +17,11 @@ This document outlines the core concepts used in machine learning, along with pr
   
 ## Jupyter Notebooks
 1. **House Price Prediction:**
-      * *Problem:* Regression analysis to predict house prices based on various features.
+      * *Problem:* Regression problem to predict house prices based on various features.
       * *Notebook:* Covers data preparation steps, model training, and evaluation.
 3. **House Sell Predicion:**
-      * *Problem:* Classification task to predict if a house will be sold within 3 months.
+      * *Problem:* Classification problem to predict if a house will be sold within 3 months.
       * *Notebook:* Explores model training and evaluation for classification problems.
 5. **NaiveBayes:**
-      * *Problem:* Classification using Naive Bayes models for spam email detection and Titanic passenger survival prediction.
-      * *Notebook:* Demonstrates the application of Naive Bayes for different classification tasks.
+      * *Problem:* Classification using various Naive Bayes models for spam email detection and Titanic passenger survival prediction.
+      * *Notebook:* Demonstrates the application of Naive Bayes for various classification tasks.
