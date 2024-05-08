@@ -12,7 +12,7 @@ This document outlines the core concepts used in machine learning, along with pr
     * Logistic Regression
     * Linear Discriminant Analysis
     * K-Nearest Neighbors
-    * Support Vectors [Maximal Margin Classifier, Support Vector Classifier, Kernel Tricks]
+    * Support Vectors [Maximal Margin Classifier, Support Vector Classifier, Kernel Tricks, Support Vector Regressor]
     * Naive Bayes
   
 ## Jupyter Notebooks
