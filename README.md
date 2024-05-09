@@ -3,10 +3,10 @@
 This document outlines the core concepts used in machine learning, along with practical applications through Jupyter Notebooks.
 
 ## Notes
-1. **Basic Statistics** - Includes essential statistical concepts to understand machine learning algorithms.
-2. **Machine Learning Basics** - Includes essential machine learning terminology.
-3. **Data Preparation** - Includes essential steps needed for data preparation.
-4. **Supervised Machine Learning** - Explores various supervised machine learning models and various evaluation metrics for classification and regression problems.
+1. **Basic-Statistics** - Includes essential statistical concepts to understand machine learning algorithms.
+2. **Machine-Learning-Fundamentals** - Includes essential machine learning terminology.
+3. **Data-Preparation** - Includes essential steps needed for data preparation.
+4. **Supervised-Machine-Learning** - Explores various supervised machine learning models and various evaluation metrics for classification and regression problems.
     * Linear Regression [Simple and Multiple]
     * Regularisation [Ridge and Lasso]
     * Logistic Regression
