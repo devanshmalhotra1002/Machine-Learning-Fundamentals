@@ -16,12 +16,18 @@ This document outlines the core concepts used in machine learning, along with pr
     * Naive Bayes
   
 ## Jupyter Notebooks
-1. **House Price Prediction:**
-      * *Problem:* Regression problem to predict house prices based on various features.
+1. **Data-Preparation-Supervised-Regression:**
+      * *Problem:* Regression problem [House Price Prediction]
       * *Notebook:* Covers data preparation steps, model training, and evaluation.
-3. **House Sell Predicion:**
-      * *Problem:* Classification problem to predict if a house will be sold within 3 months.
-      * *Notebook:* Explores model training and evaluation for classification problems.
-5. **NaiveBayes:**
-      * *Problem:* Classification using various Naive Bayes models for spam email detection and Titanic passenger survival prediction.
-      * *Notebook:* Demonstrates the application of Naive Bayes for various classification tasks.
+2. **Supervised-Classification:**
+      * *Problem:* Classification problem [3-Month House Sell Prediction]
+      * *Notebook:* Demonstrated the application of classification models and model evaluation.
+3. **Naive-Bayes:**
+      * *Problem:* Classification problems [Spam Email Detection and Titanic Passenger Survival Prediction]
+      * *Notebook:* Demonstrates the application of various Naive Bayes classifiers.
+4. **Support-Vector-Machine:**
+      * *Problem:* Regression problem [Movie Box Office Collection] & classification problem [Oscar Win Prediction]
+      * *Notebook:* Demonstrates the application of various Support Vector Machines and evaluation.
+5. **Seasonal-Data-Treatment:**
+      * *Problem:* Seasonal data of Ice-Cream Sales for 6 Months.
+      * *Notebook:* Demonstrates the method to overcome seasonility in data using multiplication factor.
